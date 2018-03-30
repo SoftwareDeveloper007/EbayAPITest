@@ -1,0 +1,255 @@
+Philips
+iU22
+iE33
+Philips Transducer
+Philips Probe
+Philips Epiq
+Epiq 5
+Epiq 7
+Philips X5-1
+Philips X51
+Philips C5-1
+Philips C51
+Philips S51
+Philips S5-1
+Philips Sector
+Philips Matrix
+Philips Matrix TEE
+Philips TEE
+Philips Curved
+Philips Linear
+TEE Transducer
+TEE Probe
+Philips Acquisition
+Philips 4535
+PNY 7600GT
+MSI 6600GT
+Philips CX50
+Philips CX-50
+Philips S7-3T
+Philips S7-3
+Philips S8-3T
+Philips S8-3
+Philips S7-2
+Philips S7-2T
+Philips X7-2T
+Philips X7-2
+Philips C10-3V
+Philips C103v
+Philips 3D93V
+Philips 3D9-3V
+Philips C8-4V
+Philips C84V
+Iwill dp533
+Philips UMB
+Philips EMB
+Philips Computer
+21378A
+Philips 21378A
+Philips 21378
+Philips 21378-6800
+Philips 21381A
+Philips 21381
+Philips 21381-6800
+Sonos TEE
+Pediatric TEE
+Mini TEE
+Multiplane TEE
+Philips Ultrasound
+Ultrasound Probe
+Ultrasound Transducer
+Ultrasound System
+iU22/iE33
+iE22
+iU33
+iU-22
+iE-33
+Philips L12-5
+Philips L125
+Philips L17-5
+Philips L175
+Philips L9-3
+Philips L93
+Philips V6-2
+Philips V62
+Philips L15-7io
+Philips L157io
+Philips C5-2
+Philips C52
+Philips X8-2T
+Philips X82T
+Philips Hockey
+Philips D2CWC
+Philips CW
+Compact Connector
+Cartridge Connector
+Philips Adapter
+Philips 4535-
+Philips Cardiac
+Philips Women
+Philips OB
+Philips OBGYN
+Philips XDucer
+Xducer
+Philips Trans-Vaginal
+Philips Trans Vag
+Philips Ultrasound Scanner
+Philips Doppler
+Philips Curved Array
+Philips Linear Array
+Philips 3D
+Philips 4D
+Philips Volumetric
+Philips Epig 7W
+Philips Epiq 7C
+Philips Epiq 7G
+Philips Epiq 5W
+Philips Epiq 5C
+Philips Epiq 5G
+Philips HOST Computer
+Philips Explora Connector
+Philips Power Supply
+Philips FEC
+Philips Front End’
+Philips UMB
+Philips EMB
+Philips Channel
+CX50 Channel
+GE
+GE Ultrasound
+GE Transducer
+GE 4D
+GE 3D
+GE Probe
+GE TEE
+6VT-D
+6VTD
+6T
+6TC
+6TC-RS
+6TCRS
+RIC59D
+RIC5-9-D
+RIC5-9D
+IC59D
+IC5-9-D
+IC5-9D
+RAB4-8-D
+RAB4-8D
+RAB48D
+GE Volumetric
+GE Matrix
+GE Curved
+GE Linear
+GE Sector
+ML6-15-D
+ML615D
+ML6-15
+ML615
+C1-5
+C15
+S1-5
+S15
+S1-5-D
+S15D
+C1-5D
+C15D
+C16
+C16D
+C1-6-D
+Vivid E9
+Logiq E9
+GE E9
+Logiq E-9
+Vivid E-9
+GE E-9
+GE E8
+GE E-8
+GE Voluson
+Voluson E8
+Voluson E-8
+Voluson 730
+Voluson 7-30
+Logiq 9
+Logiq-9
+Vivid 7
+Vivid 7 Dimension
+GE Cardiac
+GE Women
+GE OB
+GE OBGYN
+GEMS
+GEMS Transducer
+GEMS Probe
+GEMS Xducer
+GE Xducer
+GE Trans-Vaginal
+GE Ultrasound Scanner
+GE Doppler
+GE Linear Array
+GE Curved Array
+GE BEP
+GE Back End Processor
+Ultrasound Back End Processor
+GE Operator Panel
+GE RS
+GE -RS
+Siemens
+Siemens Ultrasound
+Siemens Transducer
+Siemens Probe
+Siemens Xducer
+Acuson Ultrasound
+Acuson Transducer
+Acuson Probe
+Acuson Xducer
+Siemens TEE
+Acuson TEE
+Siemens S2000
+Acuson S2000
+Siemens SC2000
+Acuson SC2000
+V5MS
+V5M-S
+Siemens 3D
+Siemens 4D
+TEE-V5MS
+TEE-V5M
+TEE-V7M
+TE-V5MS
+TE-V5M
+TE-V7M
+Siemens V7M
+Acuson V7M
+Siemens V5MS
+Acuson V5MS
+Siemens V5M
+Acuson V5M
+Siemens 4V1C
+Acuson 4V1C
+Siemens 6C2
+Acuson 6C2
+Siemens 6C-2
+Acuson 6C-2
+Siemens 4V1-C
+Acuson 4V1-C
+Siemens Curved Array
+Acuson Curved Array
+Mammo
+Hologic Selenia
+Hologic Dimension
+RM-ASY-01389
+RMASY-01389
+ASY-01389
+FSPRD-00128
+PRD-00128
+Hologic Detector
+Hologic DFP
+Hologic Gantry
+Hologic Mammography
+Hologic Fast Cycle
+Fast Cycle Detector
+Fast-Cycle Detector
+Selenia Mammography
+Detector Plate
+Detector Panel
