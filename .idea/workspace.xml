@@ -11,18 +11,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/EbayAPITest$ebayTest2.coverage" NAME="ebayTest2 Coverage Results" MODIFIED="1522439290203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EbayAPITest$main_gui.coverage" NAME="main_gui Coverage Results" MODIFIED="1522445094074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/8_Project/Progress/2017.08.04~ Facial Emotion recognition/My code" />
+    <SUITE FILE_PATH="coverage/EbayAPITest$exif_gui_r2__1_.coverage" NAME="exif_gui_r2 (1) Coverage Results" MODIFIED="1522454573889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/8_Project/Progress/2018.03.30 UI for Python Program" />
+    <SUITE FILE_PATH="coverage/EbayAPITest$exif_gui_r2.coverage" NAME="exif_gui_r2 Coverage Results" MODIFIED="1522447323846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/8_Project" />
     <SUITE FILE_PATH="coverage/EbayAPITest$py_test_in_EbayAPITest.coverage" NAME="py.test in EbayAPITest Coverage Results" MODIFIED="1522438012677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EbayAPITest$ebayTest1.coverage" NAME="ebayTest1 Coverage Results" MODIFIED="1522439134210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EbayAPITest$main_gui__1_.coverage" NAME="main_gui (1) Coverage Results" MODIFIED="1522445177947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Face-Emotion-Recognition-master/Face-Emotion-Recognition-master" />
+    <SUITE FILE_PATH="coverage/EbayAPITest$truelocal_selenium_.coverage" NAME="truelocal(selenium) Coverage Results" MODIFIED="1522451454366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.42865673">
+    <splitter split-orientation="horizontal" split-proportion="0.12100457">
       <split-first>
         <leaf>
           <file leaf-file-name="ebayTest1.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ebayTest1.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="275">
-                  <caret line="25" column="82" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="82" />
+                <state relative-caret-position="425">
+                  <caret line="25" column="82" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="82" />
                   <folding>
                     <element signature="e#0#34#0" expanded="true" />
                   </folding>
@@ -34,14 +39,24 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ebayTest2.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="ebayTest2.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ebayTest2.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="173">
-                  <caret line="30" column="84" lean-forward="false" selection-start-line="30" selection-start-column="84" selection-end-line="30" selection-end-column="84" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
                   <folding>
                     <element signature="e#0#34#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="truelocal(selenium).py" pinned="false" current-in-tab="true">
+            <entry file="file://E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal/truelocal(selenium).py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-865">
+                  <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -67,6 +82,15 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>api_key</find>
+      <find>_getexif</find>
+      <find>select</find>
+      <find>file name</find>
+      <find>filename_label</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -76,6 +100,8 @@
         <option value="$PROJECT_DIR$/searches.txt" />
         <option value="$PROJECT_DIR$/ebayTest1.py" />
         <option value="$PROJECT_DIR$/ebayTest2.py" />
+        <option value="E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal/truelocal(selenium).py" />
+        <option value="E:/8_Project/Progress/2018.03.30 UI for Python Program/exif_gui_r2.py" />
       </list>
     </option>
   </component>
@@ -122,7 +148,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/8_Project/Progress/2018.03.30 UI for Python Program" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -137,71 +163,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ebayTest2">
-    <configuration name="ebayTest1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exif_gui_r2 (1)">
+    <configuration name="exif_gui_r2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="E:/8_Project/Progress/2018.03.30 UI for Python Program" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EbayAPITest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ebayTest1.py" />
+      <option name="SCRIPT_NAME" value="E:/8_Project/Progress/2018.03.30 UI for Python Program/exif_gui_r2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ebayTest2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exif_gui_r2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="E:/8_Project" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EbayAPITest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ebayTest2.py" />
+      <option name="SCRIPT_NAME" value="E:/8_Project/exif_gui_r2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="py.test in EbayAPITest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="main_gui (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Face-Emotion-Recognition-master/Face-Emotion-Recognition-master" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EbayAPITest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Face-Emotion-Recognition-master/Face-Emotion-Recognition-master/main_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in EbayAPITest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ebayTest2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ebayTest1" />
+    <configuration name="main_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/8_Project/Progress/2017.08.04~ Facial Emotion recognition/My code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EbayAPITest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/8_Project/Progress/2017.08.04~ Facial Emotion recognition/My code/main_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="truelocal(selenium)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EbayAPITest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal/truelocal(selenium).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main_gui" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main_gui (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exif_gui_r2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.truelocal(selenium)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exif_gui_r2 (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.ebayTest2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ebayTest1" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in EbayAPITest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.exif_gui_r2 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.truelocal(selenium)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exif_gui_r2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main_gui (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main_gui" />
       </list>
     </recent_temporary>
   </component>
@@ -232,11 +303,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5235546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43254817" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10714286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06609808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -266,7 +337,7 @@
           <line>9</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -290,21 +361,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ebayTest1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" column="82" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="82" />
+        <state relative-caret-position="425">
+          <caret line="25" column="82" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="82" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/8_Project/Progress/2017.08.04~ Facial Emotion recognition/My code/test/temp_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Face-Emotion-Recognition-master/Face-Emotion-Recognition-master/main_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3468">
+          <caret line="39" column="62" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/8_Project/Progress/2017.08.04~ Facial Emotion recognition/My code/main_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ebayTest2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="30" column="84" lean-forward="false" selection-start-line="30" selection-start-column="84" selection-end-line="30" selection-end-column="84" />
+        <state relative-caret-position="187">
+          <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/8_Project/exif_gui_r2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="184" column="8" lean-forward="false" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/8_Project/Progress/2018.03.30 UI for Python Program/exif_gui_r2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="127" column="61" lean-forward="false" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/8_Project/Progress/2018.03.26 Business Data Mining/Final Code/Truelocal/truelocal(selenium).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-865">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
