@@ -8,7 +8,7 @@ with open("searches.txt", "r") as searchfile:
 
 for raw_item in searches:
     item = raw_item.strip().replace(" ", "+")
-    key = 'PingZhan-AuctionE-PRD-b70a7e1cb-c8560761'
+    key = 'MikeJohn-Search-PRD-578731904-721e4441'
     url = ('http://svcs.ebay.com/services/search/FindingService/v1\
 ?OPERATION-NAME=findItemsByKeywords\
 &SERVICE-VERSION=1.0.0\
